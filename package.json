@@ -1,0 +1,15 @@
+{
+  "name": "igi-chai",
+  "version": "1.0.0",
+  "description": "this is the desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016"
+  },
+  "author": "",
+  "license": "ISC"
+}
